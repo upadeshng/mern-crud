@@ -1,0 +1,10 @@
+.vagrant
+.ssh.config
+vendor
+node_modules
+env.php.idea
+.idea
+
+# Local Netlify folder
+.netlify
+build
